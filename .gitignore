@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Climate data files (large downloaded source files)
+data/raw/*.nc
+
+# Local climate data credentials
+.cdsapirc
